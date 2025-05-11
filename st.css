@@ -1,0 +1,30 @@
+.navbar-header{
+    color: green;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.nav-link{
+    color: rgb(187, 98, 14);
+}
+.carousel-item{
+    height: 450px;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.margin{
+    padding-right: 120px;
+    height:600px;
+}
+.btn1{
+border-radius: 50px;
+padding-top: 5px;
+font-size: 20px;
+background-color: green;
+}
+h3{
+    padding-top: 300px;
+    font-weight:bolder;
+    font-size: 60px;
+    padding-right: 15px;
+}
